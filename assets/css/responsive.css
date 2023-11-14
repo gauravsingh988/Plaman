@@ -1,0 +1,72 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .main_hero_slider .carousel-inner .carousel-item .carousel-caption h6 {
+        width: 100%;
+    }
+
+    .title_heading {
+        font-size: 30px;
+    }
+
+    .aboutmainsec .about_titlebox .about_title h2 img {
+        height: 30px;
+    }
+
+    .ambassador_mainsc .abassador_card_large,
+    .aboutmainsec .about_titlebox .about_large_p {
+        font-size: 16px;
+    }
+
+    .our_team_slider {
+        margin-right: 0px;
+    }
+
+    .desccontentbox .desboxtest h5 {
+        line-height: 32px;
+    }
+
+    .footersection .footerbordebx .footer_right_logo ul {
+        position: relative;
+    } .mainheader_section .nav-item .nav-link {
+        padding: 10px 0;
+    }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 767px) {}
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 992px) {
+    .our_team_slider {
+        margin-right: 0;
+    }
+
+    .ambassador_mainsc .abassador_card .ambassador_imgbox img {
+        width: auto;
+    }
+
+    .ambassador_mainsc .abassador_card {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .main_hero_slider .carousel-inner .carousel-item .carousel-caption h6 {
+        width: 100%;
+    }
+
+    .sliderbgimg {
+        height: 50vh;
+    }
+
+    .ambassador_mainsc .abassador_card .ambassador_name {
+        padding-top: 20px;
+    }
+
+    .mainheader_section .nav-item .nav-link {
+        padding: 10px 0;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {}
+
+
+
+@media only screen and (min-width : 1025px) {}
